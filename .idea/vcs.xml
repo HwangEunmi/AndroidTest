@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/bpdiary-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bp/bpdiary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bp/bpdiary2.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bp/bpdiary_emh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bp/bpdiary_real_temp/bpdiary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/communication" vcs="Git" />
+  </component>
+</project>
