@@ -191,6 +191,7 @@ public class CalculatorTest {
 
 간단한 덧셈/뺄셈 연산을 할 수 있는 클래스이다. 
 
+---------------
 **주요 어노테이션**들을 살펴본다.
 
 **@Before :** @Test를 시작하기 전 사전에 진행해야 할 동작에 해당된다. @Test가 시작되기 전 항상 호출되게 된다.
@@ -203,6 +204,7 @@ public class CalculatorTest {
 
 참고 : [http://junit.sourceforge.net/javadoc/org/junit/package-summary.html](http://junit.sourceforge.net/javadoc/org/junit/package-summary.html)
 
+---------------
 
 이제 **주요 메소드**를 살펴본다.
 
