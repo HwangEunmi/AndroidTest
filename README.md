@@ -194,11 +194,11 @@ public class CalculatorTest {
 ---------------
 **주요 어노테이션**들을 살펴본다.
 
-**1)@Before :** @Test를 시작하기 전 사전에 진행해야 할 동작에 해당된다. @Test가 시작되기 전 항상 호출되게 된다.
+**1) @Before :** @Test를 시작하기 전 사전에 진행해야 할 동작에 해당된다. @Test가 시작되기 전 항상 호출되게 된다.
 
-**2)@After :** @After는 모든 테스트가 종료되면 호출된다. 메모리에서 Resource를 Release 할 수 있다. 
+**2) @After :** @After는 모든 테스트가 종료되면 호출된다. 메모리에서 Resource를 Release 할 수 있다. 
 
-**3)@Test :** @Before가 완료되면 실제 코드 테스트를 진행하게 된다. 
+**3) @Test :** @Before가 완료되면 실제 코드 테스트를 진행하게 된다. 
 
 다른 어노테이션 참고 URL은 다음과 같다.
 
@@ -208,21 +208,21 @@ public class CalculatorTest {
 
 이제 **주요 메소드**를 살펴본다.
 
-**1)assertEquals() :** 두 기본형/객체가 동일한지 확인한다.
+**1) assertEquals() :** 두 기본형/객체가 동일한지 확인한다.
 
-**2)assertTrue(조건) :** 조건이 참인지 확인한다.
+**2) assertTrue(조건) :** 조건이 참인지 확인한다.
 
-**3)assertFalse(조건) :** 조건이 거짓인지 확인한다.
+**3) assertFalse(조건) :** 조건이 거짓인지 확인한다.
 
-**4)assertNotNull(object) :** 객체가 Null이 아닌지 확인한다.
+**4) assertNotNull(object) :** 객체가 Null이 아닌지 확인한다.
 
-**5)assertNull(object) :** 객체가 Null인지 확인한다.
+**5) assertNull(object) :** 객체가 Null인지 확인한다.
 
-**6)assertSame(expected, actual) :** 두 객체의 참조값이 같은지 확인한다.
+**6) assertSame(expected, actual) :** 두 객체의 참조값이 같은지 확인한다.
 
-**7)assertNotSame(unexpected, actual) :** 두 객체의 참조값이 같지 않은지 확인한다.
+**7) assertNotSame(unexpected, actual) :** 두 객체의 참조값이 같지 않은지 확인한다.
 
-**8)assertArrayEquals(expectedArray, actualArray) :** 두 배열이 동일한지 아닌지를 확인한다.
+**8) assertArrayEquals(expectedArray, actualArray) :** 두 배열이 동일한지 아닌지를 확인한다.
 
 
 ------------------------------
